@@ -1,6 +1,9 @@
 import Card from "./CardItem"
 import './Cards.css'
 import React from 'react'
+import matrixPic from "./assets/matrix.jpeg"
+import pythonPic from "./assets/python.jpeg"
+import portPic from "./assets/testimgTwo.jpeg"
 
 
 
@@ -11,7 +14,7 @@ function Cards() {
             <p className= "card-desc"> Click the Icons for source code.</p>
             <div className="row">
                 <div className="col-md-4">
-                    <Card src = 'images/testimgTwo.jpeg' 
+                    <Card src = {portPic}
                     title = "Portfolio Website" 
                     text = "This website your viewing this on built with react.js and bootstrap, hosted on my Github pages."
                     url = "https://github.com/BLara408/Portfolio-Website">
@@ -24,7 +27,7 @@ function Cards() {
                 <div className="col-md-4">
                     
                     <Card 
-                    src = 'images/python.jpeg' 
+                    src = {pythonPic}
                     title = "Python Proxy Script" 
                     text = 'Python script for a proxy server, opens and binds to a socket and sends data over http.'
                     url = "https://github.com/BLara408/Python-Proxy-Server">
@@ -34,7 +37,7 @@ function Cards() {
                 </div>
                 <div className="col-md-4">
                     <Card 
-                    src =  'images/matrix.jpeg'
+                    src =  {matrixPic}
                      title = "Matrix calculator" 
                      text = 'OOP structure matrix calculator built in C++ comes with basic arethmetic operations. '
                      url = "https://github.com/BLara408/Matrix-Calculator"
