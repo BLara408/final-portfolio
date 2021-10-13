@@ -13,7 +13,7 @@ This form component I found the styling for and implemented it, the form works f
 NEXT SECTION PORTFOLIO
 ![image](https://user-images.githubusercontent.com/24239807/137048578-3d36aec6-5dbc-4a89-b333-74138d378ad4.png)
 This is a seperate page that you can get to by either clicking the button on the homepage or the button at the top titled portfolio.
-These are custom card-item and card components styled with bootstrap and normal css. The cards have a img header and text field and social icons link directly to the repositories of each project.
+These are custom card-item and card components styled with bootstrap and normal css each card has a custom animation while hovering. The cards have a img header and text field and social icons link directly to the repositories of each project.
 
 
 
