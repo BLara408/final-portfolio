@@ -6,7 +6,7 @@ This is my personal Portfolio website that is hosted on my github pages. This is
 
 NEXT SECTION ABOUT ME
 ![image](https://user-images.githubusercontent.com/24239807/137048318-65b2a196-62d0-41d0-9384-0ff087bc0f90.png)
-The about me section is made and styled by me with custom fonts I imported from google fonts. All of these part are custom react components I made.
+The about me section is made and styled by me with custom fonts I imported from google fonts. All of these parts are custom react components I made.
  NEXT SECTION FORM
  ![image](https://user-images.githubusercontent.com/24239807/137048392-62baa542-33e1-4f50-ad30-5041f9331500.png)
 This form component I found the styling for and implemented it, the form works fully and when you press the submit button the form will send straight to my email while resetting all of the input boxed! Perfect way to get into contact with me. The social icons are imported from react-social-icons npm package and they link to my github and linkedin
