@@ -1,7 +1,4 @@
-The site is bugged at first launch click the portfolio button and back home to see these features the deployment route im having trouble with.
 
-
-This is my personal Portfolio website that is hosted on my github pages. This is the homepage it comes with interactable buttons that all have css animation, there is a backround video playing. The styling for the container holding the video are borrowed styling from tutorials but all components other then those are made by me. 
 ![image](https://user-images.githubusercontent.com/24239807/137048180-ccd8d8ba-e976-4b2a-8744-d6c5481a55e0.png)
 
 NEXT SECTION ABOUT ME
